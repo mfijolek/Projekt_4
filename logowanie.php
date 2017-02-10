@@ -2,6 +2,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="pl" lang="pl">
 <head>
     <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="stylesheet" href="css/main.css">
+	<link rel="stylesheet" href="css/animate.css">
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <title>Logowanie</title>
 </head>
@@ -72,6 +74,9 @@ else
   echo "<center>bledne dane</center>";
 }
 ?>
+	<script src="js/main.js"></script>
+	<script src="js/animations.js"></script>
+	<script src="js/jquery.js"></script>
 </body>
   <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
