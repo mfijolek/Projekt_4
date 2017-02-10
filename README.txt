@@ -1,0 +1,1 @@
+Projekt pierwszej strony opartej na php.
