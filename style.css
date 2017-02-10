@@ -1,0 +1,72 @@
+body
+{
+    background-color : white;
+	width: 1024px;
+height: 768px;
+margin: auto;
+position: relative;
+}
+#TABELA
+{
+    width: 95%;
+    border: 1px black solid;
+    border-collapse: collapse;
+    margin: auto;
+
+}
+#TABELA td
+{
+    border: 1px black solid;
+    text-align: center;
+    font-family: Arial;
+    height:30px;
+
+}
+#pierwszy
+{
+    background-color: black;
+    color: white;
+    font-family: Impact; 
+    font-size: 21;
+    height: 36px;
+    text-indent: 15px;
+    text-align: left;
+
+}
+#wyroznienie
+{
+	background-color: white;
+	color: red;
+    font-family: Impact; 
+    font-size: 21;
+    height: 30px;
+    text-indent: 15px;
+    text-align: center;
+}
+.siteleft
+{
+	float:left;
+}
+.siteright
+{
+	float:right;
+}
+.sitecenter
+{
+	float:center;
+}
+.td1
+{
+	vertical-align:top;
+	float: right;
+}
+#uzytkownik
+{
+	background-color: white;
+	color: blue;
+    font-family: Impact; 
+    font-size: 21;
+    height: 30px;
+    text-indent: 15px;
+    
+}
